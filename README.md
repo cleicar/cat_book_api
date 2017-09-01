@@ -1,4 +1,4 @@
-# Cat Book Apo
+# Cat Book Api
 
 Cat Book is a simple Rails 5 API that serves data regarding cats and their hobbies (yes cats have hobbies).
 
